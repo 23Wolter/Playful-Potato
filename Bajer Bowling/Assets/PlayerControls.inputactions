@@ -1,0 +1,33 @@
+{
+    "name": "PlayerControls",
+    "maps": [
+        {
+            "name": "Gameplay",
+            "id": "c8a1c665-cc8d-4b7a-89b0-78b8e77a7b71",
+            "actions": [
+                {
+                    "name": "Throw",
+                    "type": "Button",
+                    "id": "aa180ee9-d054-45d2-9044-bf3339da4637",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c22a1e77-66c0-4b01-8860-a8f98fced86c",
+                    "path": "<Gamepad>/buttonSouth",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Throw",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
